@@ -1,0 +1,15 @@
+.content{
+    overflow:hidden;
+}
+.one{
+    float: right;
+    width:300px;
+    background-color: tomato;
+}
+.two{
+    margin-right: 300px;
+    background-color: teal;
+}
+div{
+    height: 480px;
+}

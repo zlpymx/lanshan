@@ -1,0 +1,21 @@
+.content{
+    width:100%;
+}
+.one{
+    float: left;
+    width:200px;
+    background-color: tomato;
+}
+.two{
+    margin-left: 200px;
+    margin-right: 300px;
+    background-color: teal;
+}
+.three{
+    float: right;
+    width:300px;
+    background-color: violet;
+}
+div{
+    height: 480px;
+}

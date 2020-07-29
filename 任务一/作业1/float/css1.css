@@ -1,0 +1,16 @@
+.content{
+    overflow:hidden;
+}
+.one{
+    float: left;
+    width:30%;
+    background-color: tomato;
+}
+.two{
+    float: right;
+    width:70%;
+    background-color: teal;
+}
+div{
+    height: 480px;
+}

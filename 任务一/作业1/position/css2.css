@@ -1,0 +1,19 @@
+.content{
+    position: relative;
+    width: 100%;
+}
+.one{
+    position: absolute;
+    width: 300px;
+    background-color: tomato;
+}
+.two{
+    position: absolute;
+    background-color: teal;
+    width:100%;
+    left:300px;
+    right:0;
+}
+div{
+    height: 480px;
+}

@@ -1,0 +1,25 @@
+.content{
+    width:100%;
+    position: relative;
+}
+.one{
+   position: absolute;
+    width:200px;
+    left:0;
+    background-color: tomato;
+}
+.two{
+position: absolute;
+left:200px;
+width:300px;
+    background-color: teal;
+}
+.three{
+    position: absolute;
+    right:0;
+    background-color: violet;
+    left:500px;
+}
+div{
+    height: 480px;
+}

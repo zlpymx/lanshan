@@ -1,0 +1,15 @@
+.content{
+    display: flex;
+    width: 100%;
+}
+.one{
+    flex-grow:3;
+    background-color: tomato;
+}
+.two{
+    background-color: teal;
+    flex-grow:7;
+}
+div{
+    height: 480px;
+}

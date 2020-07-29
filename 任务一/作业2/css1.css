@@ -1,0 +1,133 @@
+body{
+    margin: 0;
+}
+.top{
+    position: relative;
+    width: 100%;
+    height: 75px;
+    background-color: #333333;
+}
+.center{
+    height: 70px;
+    width: 960px;
+    margin: 0 auto;
+
+}
+.L{
+    color: ivory;
+    font-size: 25px;
+}
+.A{ 
+    color: ivory;
+    font-size: small;
+    display: flex;
+    justify-content:flex-end;
+    text-align: center;
+}
+a{
+    color: ivory;
+    margin-left: 8px;
+    margin-top: 5px;
+}
+.banner{
+    background-color: #66BB33;
+    width:100%;
+    display: flex;
+    height: 100px;
+}
+.form{
+    width: 960px;
+    margin: 0 auto;
+    display: flex;
+    align-items:flex-end;
+    justify-content:flex-end;
+    text-align: center;
+    vertical-align: middle;
+}
+.shu{
+    height:30px;
+    background-color:#B2DD99;
+    border:1px solid black;
+    margin-left: 10px;
+    width:25px;
+   margin-bottom: 10px;
+   line-height: 30px;
+   color: #7BA562;
+}
+.ge{
+    width:25px;
+    height: 40px;
+    margin-left: 10px;
+    border:1px solid black;
+    background-color: #E0F1D6;
+    margin-bottom: 10px;
+    line-height: 50px;
+    color: #2A3A20;
+}
+.border{
+    border-bottom:1px solid #666666;
+    height:90px;
+    width:100%;
+    position: relative;
+}
+.dh{
+    width: 960px;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    align-items:flex-end;
+    height:91px;
+}
+.dh1{
+    border-radius: 15px 15px 0 0;
+    height:60px;
+    width:120px;
+    line-height: 60px;
+    border:1px solid #666666;
+    border-bottom:0;
+    background-color: white;
+}
+.dh2{
+    border-radius: 15px 15px 0 0;
+    border:1px solid #666666;
+    height:60px;
+    width:120px;
+    line-height: 60px;
+    background-color: #EEEEEE;
+}
+
+.content{   
+    width: 960px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    height: 600px;
+}
+.zong{
+    display: flex;
+    height: 170px;
+    width: 100%;
+    text-align: center;
+    justify-content:space-between;
+    margin: 5px;
+}
+
+.ct{
+    padding: 75px;
+    border:1px solid #666666;
+}
+.ct3{
+    padding: 95px;
+    border:1px solid #666666;
+}
+.end{
+    height: 60px;
+    width: 100%;
+    background-color: #666666;
+    text-align: center;
+}
+.zi{
+    color: white;
+    margin-top: 5px;
+}
